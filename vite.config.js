@@ -3,5 +3,5 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/',  // 👈 Change from '/carequeue-thesis/' to '/'
+  base: '/CareQueuetAdmin-Thesis/',  // 👈 Change from '/carequeue-thesis/' to '/'
 })
